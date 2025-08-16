@@ -21,9 +21,8 @@ This project presents an **HR Analytics Dashboard** built in Power BI to analyze
 - Certain job roles such as **Laboratory Technicians** and **Sales Executives** experienced more attrition compared to others.  
 
 ## Repository Structure
-- `PBI2.xlsx` – Source dataset  
-- `Screenshot.png` – Dashboard snapshot  
-- `HR_Analytics.pbix` (if included) – Power BI project file  
+- `PBI2.xlsx` – Source dataset   
+- `HR_Analytics.pbix`  – Power BI project file  
 
 ## Conclusion
 The dashboard provides HR teams with actionable insights into employee retention, helping organizations strengthen workforce stability and address key challenges in human resource management.
